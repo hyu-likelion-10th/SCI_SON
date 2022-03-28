@@ -45,6 +45,5 @@
     + WE ARE THE BLUES
 
 ### [CODE]
-'''
+
     res = requests.post(url, data=json.dumps(body) headers=headers)
-'''
