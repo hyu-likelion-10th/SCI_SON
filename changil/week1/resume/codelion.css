@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800&display=swap");
+
+* {
+  font-family: "Montserrat";
+}
+
+h2 {
+  font-size: 24px;
+  color: #a4ab93;
+  font-weight: lighter;
+  margin-bottom: 16px;
+  margin-top: 50px;
+  border-bottom: 1px solid #a4ab93;
+  padding-bottom: 10px;
+}
+
+.mainbox {
+  width: 610px;
+  padding: 30px;
+  margin: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid #a4ab93;
+}
+
+footer {
+  padding: 30px;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.name-text {
+  font-size: 20px;
+  color: #878787;
+  font-weight: bold;
+}
+
+.about-me-text {
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.title-text {
+  float: left;
+  font-size: 20px;
+  font-weight: bold;
+  color: #a4ab93;
+}
+
+.year-text {
+  float: right;
+  font-size: 20px;
+  font-weight: bold;
+  color: #a4ab93;
+}
+
+.float-wrap {
+  overflow: hidden;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+.titlebox {
+  text-align: right;
+  font-style: italic;
+}
+
+.desc-text {
+  font-size: 16px;
+}
+
+.desc-subtext {
+  font-size: 16px;
+  padding-left: 16px;
+  color: #878787;
+}
+
+.sns-wrap {
+  text-align: right;
+  padding-top: 50px;
+}
+
+.sns-img {
+  width: 30px;
+  height: 30px;
+}

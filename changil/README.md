@@ -14,3 +14,14 @@
 + SCHOOL
   + 서울삼육고등학교
   + 한양대학교 신소재공학부
+
+## TMI
+
++ ARMY
+  + 19.04~20.11
+  + 육군 9사단
+
++ HOBBY
+  +Photography
+  +Baseball
+
